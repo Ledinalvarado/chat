@@ -1,0 +1,14 @@
+{
+    "name": "ledin/chat-vivo",
+    "description": "chat en vivo",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ledin",
+            "email": "ledinalvarado18@gmail.com"
+        }
+    ],
+    "require": {
+        "cboden/ratchet": "^0.4.1"
+    }
+}
